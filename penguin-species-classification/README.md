@@ -23,9 +23,6 @@ The models are evaluated using:
 ---
 
 
-## 📄 View Full Report (Embedded PDF)
+### 📄 View Full Report
 
-<iframe src="penguin_classification_report.pdf" width="100%" height="600px">
-  This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="penguin_classification_report.pdf">Download PDF</a>.
-</iframe>
+[📥 Click here to view or download the PDF](penguin_classification_report.pdf)
