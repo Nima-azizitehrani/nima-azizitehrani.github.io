@@ -23,14 +23,10 @@ Techniques: Time-series analysis, Pandas, Matplotlib
 EDA on Chicago taxi trips using distance, duration, and cleanup rules.  
 Includes visuals and correlation insights.
 
-### 📊 Housing Price Regression  
-Built a multiple linear regression model using R.  
-Analyzed residuals, checked assumptions, and improved accuracy.  
-→ *Coming soon: [View folder](./Linear-Regression/)*
+### 🛒 [Market Basket Analysis](./Market-Basket-Analysis/)
 
-### 📈 Time Series Forecasting  
-Used ARIMA models in R to forecast demand and identify trends.  
-→ *Coming soon: [View folder](./Time-Series-Forecasting/)*
+Unsupervised learning project using Apriori algorithm to uncover product associations.  
+Shows frequent itemsets, support, confidence, and lift insights.
 
 
 ---
