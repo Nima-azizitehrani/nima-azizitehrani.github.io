@@ -16,6 +16,6 @@ It includes data preparation, visualization of yearly/monthly inflation, and obs
 
 ## 📎 Artifacts
 
-- `/US-Inflation-2010-to-2023.html` – Full notebook with graphs and commentary
+▶️ [View Full Project with Graphs](./US-Inflation-2010-to-2023.html)
 
 ⚠️ Note: Data file not included due to source restrictions; outputs are preserved for reference.
