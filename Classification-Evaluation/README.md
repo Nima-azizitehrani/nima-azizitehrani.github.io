@@ -13,7 +13,7 @@ It evaluates model predictions, adjusts thresholds, and interprets results via c
 - Binary classification evaluation
 
 ## 📂 Files
-- `optimal threshold using F1.html`: Demonstrates how to tune thresholds to optimize the F1 score
+▶️ [View Full Analysis with Segments & Charts](./optimal-threshold-using-F1.html): Demonstrates how to tune thresholds to optimize the F1 score
 
 ## 🧠 Skills
 Binary classification, threshold tuning, model evaluation
