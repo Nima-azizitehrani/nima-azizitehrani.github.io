@@ -10,6 +10,19 @@ This portfolio highlights real-world projects in SQL, R, Python, relational data
 
 ## 🗂️ Featured Projects
 
+### 🐧 [Penguin Species Classification](./penguin-species-classification/)
+
+Compared linear regression and logistic regression for classifying penguins using flipper and bill measurements.  
+Visualized decision boundaries and evaluated with confusion matrix and accuracy metrics.  
+**Techniques:** One-hot encoding, scikit-learn, seaborn, matplotlib
+
+### 💼 [Income Classification Using Statistical Learning](./income-classification-statistical-learning/)
+
+Used linear models, logistic regression, and decision trees to classify individuals by income level based on census data.  
+Handled class imbalance, outliers, and categorical variables; evaluated with AUC, F1, and confusion matrix.  
+**Techniques:** Data preprocessing, model tuning, ROC curve, classification metrics
+
+
 ### 📘 [Relational Database Design](./Order-Normalization-Project/)
 Normalized an order-tracking dataset to BCNF, derived functional dependencies, and designed ER diagrams.
 
