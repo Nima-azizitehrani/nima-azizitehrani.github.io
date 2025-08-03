@@ -13,10 +13,10 @@ This portfolio highlights real-world projects in SQL, R, Python, relational data
 ### 📘 [Relational Database Design](./Order-Normalization-Project/)
 Normalized an order-tracking dataset to BCNF, derived functional dependencies, and designed ER diagrams.
 
-### 📈 [US Inflation EDA (2010–2023)](./Inflation-EDA-Analysis/)
+### [US Inflation Analysis (2010–2023)](./Inflation-EDA-Analysis/)
 
-Explored trends in U.S. inflation using CPI data over a 13-year period.  
-Includes time-series visualizations, percentage change analysis, and post-pandemic insights.
+Exploratory analysis of U.S. inflation trends using CPI data from 2010 to 2023.  
+Techniques: Time-series analysis, Pandas, Matplotlib
 
 ### 📊 Housing Price Regression  
 Built a multiple linear regression model using R.  
