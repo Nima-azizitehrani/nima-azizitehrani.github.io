@@ -19,6 +19,6 @@ It includes:
 
 ## 📎 Artifacts
 
-▶️ [View Full Analysis with Rules & Graphs](./market-basket-analysis.html)
+▶️ [View Full Analysis with Rules & Graphs](./Market-Basket-Analysis.html)
 
 ⚠️ Note: Data file not included; results are preserved in HTML.
