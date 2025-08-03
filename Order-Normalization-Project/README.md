@@ -20,6 +20,9 @@ It identifies:
 
 ## 📎 Artifacts
 - `Activity 7.2 Solutions.pdf` – Full write-up including tables, functional dependencies, and final ERD
+## 🖼️ ER Diagram Preview
+
+![ER Diagram](./ER_Diagram.png)
 
 ## ✅ Final Normalized Tables
 
