@@ -19,6 +19,12 @@ Instead of focusing only on model accuracy or F1 score, it applies utility funct
 - Cost-sensitive prediction tuning
 - Business value optimization in classification
 
+## 🔗 Artifacts
+
+📄 [View Full Analysis Report](./Cost-Sensitive-Classification.html)
+
+> The HTML file contains utility-based classification results and visual outputs from the analysis.
+
 ---
 
 ## 📌 Notes
