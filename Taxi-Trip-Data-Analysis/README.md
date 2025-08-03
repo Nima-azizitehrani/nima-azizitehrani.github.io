@@ -20,6 +20,6 @@ This project includes:
 
 ## 📎 Artifacts
 
-▶️ [View Full Analysis with Graphs](./chicago-taxi-analysis.html)
+▶️ [View Full Analysis with Graphs](./Chicago-Taxi-September-Trip.html)
 
 ⚠️ Note: Data file not included due to size; all outputs preserved in HTML.
