@@ -33,13 +33,10 @@ Shows frequent itemsets, support, confidence, and lift insights.
 Analyzed customer transactions to create meaningful segments using Recency, Frequency, and Monetary scoring.  
 Used for retention, loyalty, and high-value targeting.
 
-### 🧮 Classification Evaluation
+### 🧮 [Classification Evaluation](./Classification-Evaluation)
 
 Tuned binary classification models using F1 score optimization and confusion matrix analysis.  
-Techniques: Threshold tuning, model evaluation, binary classification  
-📂 Files: `Assignment-3-Final Code.ipynb`, `optimal-threshold-using-F1.ipynb`  
-📁 [View Project](./Classification-Evaluation)
-
+Techniques: Threshold tuning, model evaluation, binary classification 
 
 ---
 
