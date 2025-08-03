@@ -28,6 +28,11 @@ Includes visuals and correlation insights.
 Unsupervised learning project using Apriori algorithm to uncover product associations.  
 Shows frequent itemsets, support, confidence, and lift insights.
 
+### 🧮 [Customer RFM Segmentation](./Customer-RFM-Segmentation/)
+
+Analyzed customer transactions to create meaningful segments using Recency, Frequency, and Monetary scoring.  
+Used for retention, loyalty, and high-value targeting.
+
 
 ---
 
