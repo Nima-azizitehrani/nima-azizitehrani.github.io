@@ -38,6 +38,11 @@ Used for retention, loyalty, and high-value targeting.
 Tuned binary classification models using F1 score optimization and confusion matrix analysis.  
 Techniques: Threshold tuning, model evaluation, binary classification 
 
+### 💰 [Cost-Sensitive Classification](./Cost-Sensitive-Classification)
+
+Adjusted classification predictions using utility functions to reflect business impact and costs.  
+Techniques: Cost-sensitive learning, decision support, model evaluation  
+
 ---
 
 ## 📫 Contact
