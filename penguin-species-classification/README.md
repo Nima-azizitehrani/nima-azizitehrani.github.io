@@ -22,4 +22,10 @@ The models are evaluated using:
 
 ---
 
-📂 [View This Project as a Web Page](https://nima-azizitehrani.github.io/penguin-species-classification/)
+
+## 📄 View Full Report (Embedded PDF)
+
+<iframe src="penguin_classification_report.pdf" width="100%" height="600px">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="penguin_classification_report.pdf">Download PDF</a>.
+</iframe>
