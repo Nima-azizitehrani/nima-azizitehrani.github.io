@@ -18,6 +18,11 @@ Normalized an order-tracking dataset to BCNF, derived functional dependencies, a
 Exploratory analysis of U.S. inflation trends using CPI data from 2010 to 2023.  
 Techniques: Time-series analysis, Pandas, Matplotlib
 
+### 🚕 [Chicago Taxi Trip Data Analysis](./Taxi-Trip-Data-Analysis/)
+
+EDA on Chicago taxi trips using distance, duration, and cleanup rules.  
+Includes visuals and correlation insights.
+
 ### 📊 Housing Price Regression  
 Built a multiple linear regression model using R.  
 Analyzed residuals, checked assumptions, and improved accuracy.  
