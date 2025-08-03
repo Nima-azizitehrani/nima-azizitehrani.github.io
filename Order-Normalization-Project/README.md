@@ -19,7 +19,7 @@ It identifies:
 - ERD modeling
 
 ## 📎 Artifacts
-- `Activity 7.2 Solutions.pdf` – Full write-up including tables, functional dependencies, and final ERD
+- - [📄 Activity 7.2 Solutions.pdf](./Activity%207.2%20Solutionspdf.pdf) – Full write-up including tables, functional dependencies, and final ERD
 ## 🖼️ ER Diagram Preview
 
 ![ER Diagram](./Activity 7.2.drawio.png)
