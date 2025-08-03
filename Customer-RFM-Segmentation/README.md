@@ -20,6 +20,6 @@ Key tasks:
 
 ## 📎 Artifacts
 
-▶️ [View Full Analysis with Segments & Charts](./rfm-segmentation.html)
+▶️ [View Full Analysis with Segments & Charts](./Customer-RFM-Segmentation.html)
 
 ⚠️ Note: Transactional data not included due to size; outputs preserved.
