@@ -12,8 +12,8 @@ This portfolio highlights real-world projects in SQL, R, Python, relational data
 
 ### 🍽️ [Restaurant Reservation Web App (Flask + MySQL)](https://github.com/Nima-azizitehrani/opentable-reservation-app)
 
-Full-stack reservation system designed and built end-to-end: a normalized MySQL database (3NF) with triggers and stored procedures enforcing booking rules, a Flask web app for browsing and booking, and a manager dashboard running 18 SQL reports (CTEs, window functions, rollups). Includes a pytest suite and CI.  
-**Techniques:** Python, Flask, MySQL, SQL window functions, pytest
+Full-stack reservation system designed and built end-to-end: a normalized MySQL database (3NF) with triggers and stored procedures enforcing booking rules, a Flask web app for browsing and booking, and a manager dashboard running 18 SQL reports (CTEs, window functions, rollups).  
+**Techniques:** Python, Flask, MySQL, SQL window functions
 
 ### 🐧 [Penguin Species Classification](./penguin-species-classification/)
 
