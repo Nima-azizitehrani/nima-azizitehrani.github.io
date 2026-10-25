@@ -2,12 +2,15 @@
 
 # 📊 Nima Azizitehrani – Data Science Portfolio
 
-Hi! I'm Nima — a Revenue Analyst and a Master of Data Science student at Illinois Tech.  
+Hi! I'm Nima — a Category Management Revenue Analyst at UniPro Foodservice and an M.S. in Data Science graduate from Illinois Tech.  
 This portfolio showcases real-world projects using Python, R, SQL, and machine learning.
 
 ---
 
 ## 🧠 Featured Projects
+
+### 🍽️ [Restaurant Reservation Web App (Flask + MySQL)](https://github.com/Nima-azizitehrani/opentable-reservation-app)
+Full-stack reservation system: normalized MySQL schema (3NF), triggers and stored procedures enforcing booking rules, a Flask web app, and a manager dashboard with 18 SQL reports. Tested with pytest and CI.
 
 ### 🐧 [Penguin Species Classification](./penguin-species-classification/)
 Compared linear and logistic regression for multi-class classification using the Palmer Penguins dataset.
@@ -40,6 +43,6 @@ Accounted for business impact by adjusting classification thresholds and utility
 
 ## 📬 Contact
 
-- 📧 Email: azizitehrani.nima@email.com  
+- 📧 Email: azizitehrani.nima@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nima-azizitehrani)  
 - 💻 [GitHub](https://github.com/nima-azizitehrani)
