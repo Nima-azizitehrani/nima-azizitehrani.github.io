@@ -10,7 +10,7 @@ This portfolio showcases real-world projects using Python, R, SQL, and machine l
 ## 🧠 Featured Projects
 
 ### 🍽️ [Restaurant Reservation Web App (Flask + MySQL)](https://github.com/Nima-azizitehrani/opentable-reservation-app)
-Full-stack reservation system: normalized MySQL schema (3NF), triggers and stored procedures enforcing booking rules, a Flask web app, and a manager dashboard with 18 SQL reports. Tested with pytest and CI.
+Full-stack reservation system: normalized MySQL schema (3NF), triggers and stored procedures enforcing booking rules, a Flask web app, and a manager dashboard with 18 SQL reports.
 
 ### 🐧 [Penguin Species Classification](./penguin-species-classification/)
 Compared linear and logistic regression for multi-class classification using the Palmer Penguins dataset.
